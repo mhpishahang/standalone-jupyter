@@ -1,0 +1,13 @@
+pip
+wheel
+setuptools
+pywin32==300
+tensorflow==2.0.4
+numpy==1.18.5
+pandas==1.2.1
+scikit-learn==0.24.1
+matplotlib==3.3.4
+xlrd==1.2.0
+jupyter
+jupyter_enterprise_gateway
+jupyterlab
